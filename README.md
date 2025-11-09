@@ -5,4 +5,5 @@ This repository demonstrates a GitHub Actions matrix build that generates and up
 Each build artifact is prefixed with **build-6e8074e** and contains non-empty content.
 
 **Author:** Meghana  
-📧 Email: yourname@example.com
+📧 Email: 23f2001531@ds.study.iitm.ac.in
+
